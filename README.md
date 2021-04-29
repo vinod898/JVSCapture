@@ -32,6 +32,8 @@ add java library to project build path and configure comm.jar and .dll files und
  2. copy 'win32com.dll' to JDK_HOME\jre\bin.
  3. copy 'javax.comm.properties'to to JDK_HOME\jre\lib.
  4. copy 'comm. jar' to JDK_HOME\jre\lib\ext.
+
+![](images/lib_folder.jpg)
 ### Linux
 `    `
 ### MacOs
@@ -49,7 +51,7 @@ Eg :- `java -jar target\JVSCapture.jar -mode 1 -port COM3 -interval 2 -waveset 8
 <br><br>
 Run below command for Help <br> `java -jar target\JVSCapture.jar -help`
 <br><br>
-![](images/help.png.png)
+![](images/help.png)
 
 ## Links
 [Download & Install JAVA(32 bit)](https://www.oracle.com/in/java/technologies/javase-jre8-downloads.html).<br>
