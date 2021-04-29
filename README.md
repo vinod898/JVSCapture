@@ -49,6 +49,7 @@ Eg :- `java -jar target\JVSCapture.jar -mode 1 -port COM3 -interval 2 -waveset 8
 <br><br>
 Run below command for Help <br> `java -jar target\JVSCapture.jar -help`
 <br><br>
+![](images/help.png.png)
 
 ## Links
 [Download & Install JAVA(32 bit)](https://www.oracle.com/in/java/technologies/javase-jre8-downloads.html).<br>
